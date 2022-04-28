@@ -1,14 +1,23 @@
 cff-version: 1.2.0
 message: "If you use this software, please cite it as below."
 authors:
-- family-names: "YOUR_NAME_HERE"
-  given-names: "YOUR_NAME_HERE"
+- family-names: "Magdolen"
+  given-names: "Miriam"
   orcid: "https://orcid.org/0000-0000-0000-0000"
-- family-names: "Lisa"
-  given-names: "Mona"
+- family-names: "von Behren"
+  given-names: "Sascha"
   orcid: "https://orcid.org/0000-0000-0000-0000"
-title: "straightlining"
+- family-names: "Vallee"
+  given-names: "Jan"
+  orcid: "https://orcid.org/0000-0000-0000-0000"
+- family-names: "Chlond"
+  given-names: "Bastian"
+  orcid: "https://orcid.org/0000-0000-0000-0000"
+- family-names: "Vortisch"
+  given-names: "Peter"
+  orcid: "https://orcid.org/0000-0000-0000-0000"
+title: "Response bias in Likert-style psychological items – an example from a large-scale travel survey in China"
 version: 1.0.0
-doi: 10.5281/zenodo.1234
+doi: XXXX
 date-released: 2022-04-27
 url: "https://github.com/kit-ifv/straightlining"
